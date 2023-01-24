@@ -51,7 +51,7 @@ def reverse():
                              "?full=1#result", headers=ua).content.decode("utf-8")
             pattern = r"</th>\n<td>(.*?)</td>"
             results = re.findall(pattern, response)
-            print("github@tahaluindo:~$ " + site +
+            print("rev-ip:~$ " + site +
                   " - [ " + str(len(results)) + " ]")
 
             for line in results:
