@@ -1,3 +1,3 @@
 ## Reverse IP
 
-### Using https://rapiddns.io/ Services
+### Using 	[Rapid DNS](https://rapiddns.io/) Services
